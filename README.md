@@ -1,5 +1,5 @@
-Blog
-====
+Front Page
+==========
 
 Data Science at Scale Team Front Page
 
