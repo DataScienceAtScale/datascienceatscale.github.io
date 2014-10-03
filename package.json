@@ -1,0 +1,25 @@
+{
+  "name": "DataScienceAtScaleBlog",
+  "description": "",
+  "version": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "jade": "",
+    "html2jade": "",
+    "marked": ""
+  },
+  "scripts": {
+    "postinstall": ""
+  },
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "main": "",
+  "devDependencies": {},
+  "author": "",
+  "license": ""
+}
